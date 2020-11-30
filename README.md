@@ -1,6 +1,6 @@
 # CollectionPractice
 
-#Three Basic Arrays
+# Three Basic Arrays
 
 Create an array to hold integer values 0 through 9
 
@@ -8,7 +8,7 @@ Create an array of the names "Tim", "Martin", "Nikki", & "Sara"
 
 Create an array of length 10 that alternates between true and false values, starting with true
 
-#List of Flavors
+# List of Flavors
 
 Create a list of ice cream flavors that holds at least 5 different flavors (feel free to add more than 5!)
 
@@ -18,7 +18,7 @@ Output the third flavor in the list, then remove this value
 
 Output the new length of the list (It should just be one fewer!)
 
-#User Info Dictionary
+# User Info Dictionary
 
 Create a dictionary that will store both string keys as well as string values
 
