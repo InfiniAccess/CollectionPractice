@@ -24,8 +24,8 @@ Create a dictionary that will store both string keys as well as string values
 
 Add key/value pairs to this dictionary where:
 
-each key is a name from your names array
+  -each key is a name from your names array
 
-each value is a randomly select a flavor from your flavors list.
+  -each value is a randomly select a flavor from your flavors list.
 
 Loop through the dictionary and print out each user's name and their associated ice cream flavor
